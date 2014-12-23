@@ -95,3 +95,6 @@ C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP25\TP1\bin\Debug\TP1.exe
 C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP25\TP1\bin\Debug\TP1.pdb
 C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP25\TP1\obj\x86\Debug\TP1.csprojResolveAssemblyReference.cache
 C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP25\TP1\obj\x86\Debug\TP1.csproj.GenerateResource.Cache
+C:\Users\Mariam\Documents\GitHub\TP25\TP25\TP1\bin\Debug\TP1.exe.config
+C:\Users\Mariam\Documents\GitHub\TP25\TP25\TP1\obj\x86\Debug\TP1.exe
+C:\Users\Mariam\Documents\GitHub\TP25\TP25\TP1\obj\x86\Debug\TP1.pdb

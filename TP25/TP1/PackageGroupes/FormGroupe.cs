@@ -18,7 +18,7 @@ namespace TP1.PackageGroupes
         }
         private void FormGroupe_Load(object sender, EventArgs e)
         {
-
+            FormGroupe fg = new FormGroupe();
         }
         private void btnEnregistrer_Click(object sender, EventArgs e)
         {
