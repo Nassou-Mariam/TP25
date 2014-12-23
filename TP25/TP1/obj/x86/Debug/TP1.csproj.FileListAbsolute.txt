@@ -1,0 +1,97 @@
+C:\Users\compaq\AppData\Local\Temporary Projects\TP1\bin\Debug\TP1.exe
+C:\Users\compaq\AppData\Local\Temporary Projects\TP1\bin\Debug\TP1.pdb
+C:\Users\compaq\AppData\Local\Temporary Projects\TP1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\compaq\AppData\Local\Temporary Projects\TP1\obj\x86\Debug\TP1.Properties.Resources.resources
+C:\Users\compaq\AppData\Local\Temporary Projects\TP1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\compaq\AppData\Local\Temporary Projects\TP1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\compaq\AppData\Local\Temporary Projects\TP1\obj\x86\Debug\TP1.exe
+C:\Users\compaq\AppData\Local\Temporary Projects\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\compaq\AppData\Local\Temporary Projects\TP1\obj\x86\Debug\TP1.Form1.resources
+C:\Users\compaq\AppData\Local\Temporary Projects\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormGestionStagiaires.resources
+C:\Users\compaq\AppData\Local\Temporary Projects\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormStagiaire.resources
+C:\Users\compaq\AppData\Local\Temporary Projects\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormUpdateStagiaire.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP1\TP1\obj\x86\Debug\TP1.exe
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP1\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP1\TP1\bin\Debug\TP1.exe
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP1\TP1\bin\Debug\TP1.pdb
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP1\TP1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP1\TP1\obj\x86\Debug\TP1.Form1.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP1\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormGestionStagiaires.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP1\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormStagiaire.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP1\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormUpdateStagiaire.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP1\TP1\obj\x86\Debug\TP1.Properties.Resources.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP1\TP1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP1\TP1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP2\TP1\obj\x86\Debug\TP1.exe
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP2\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP2\TP1\bin\Debug\TP1.exe
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP2\TP1\bin\Debug\TP1.pdb
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP2\TP1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP2\TP1\obj\x86\Debug\TP1.Form1.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP2\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormGestionStagiaires.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP2\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormStagiaire.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP2\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormUpdateStagiaire.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP2\TP1\obj\x86\Debug\TP1.Properties.Resources.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP2\TP1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP2\TP1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP3\TP1\obj\x86\Debug\TP1.exe
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP3\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP3\TP1\bin\Debug\TP1.exe
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP3\TP1\bin\Debug\TP1.pdb
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP3\TP1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP3\TP1\obj\x86\Debug\TP1.Form1.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP3\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormGestionStagiaires.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP3\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormStagiaire.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP3\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormUpdateStagiaire.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP3\TP1\obj\x86\Debug\TP1.Properties.Resources.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP3\TP1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP3\TP1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP3\TP1\obj\x86\Debug\TP1.PackageGroupes.FormGestionGroupes.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP3\TP1\obj\x86\Debug\TP1.PackageGroupes.FormGroupe.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP3\TP1\obj\x86\Debug\TP1.PackageGroupes.FormUpdateGroupe.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP11\TP1\obj\x86\Debug\TP1.exe
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP11\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP11\TP1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP11\TP1\obj\x86\Debug\TP1.Form1.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP11\TP1\obj\x86\Debug\TP1.PackageGroupes.FormGestionGroupes.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP11\TP1\obj\x86\Debug\TP1.PackageGroupes.FormGroupe.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP11\TP1\obj\x86\Debug\TP1.PackageGroupes.FormUpdateGroupe.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP11\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormGestionStagiaires.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP11\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormStagiaire.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP11\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormUpdateStagiaire.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP11\TP1\obj\x86\Debug\TP1.Properties.Resources.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP11\TP1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP11\TP1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP11\TP1\bin\Debug\TP1.exe
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP11\TP1\bin\Debug\TP1.pdb
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP20\TP1\obj\x86\Debug\TP1.exe
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP20\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP20\TP1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP20\TP1\obj\x86\Debug\TP1.Form1.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP20\TP1\obj\x86\Debug\TP1.PackageGroupes.FormGestionGroupes.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP20\TP1\obj\x86\Debug\TP1.PackageGroupes.FormGroupe.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP20\TP1\obj\x86\Debug\TP1.PackageGroupes.FormUpdateGroupe.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP20\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormGestionStagiaires.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP20\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormStagiaire.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP20\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormUpdateStagiaire.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP20\TP1\obj\x86\Debug\TP1.Properties.Resources.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP20\TP1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP20\TP1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP20\TP1\bin\Debug\TP1.exe
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP20\TP1\bin\Debug\TP1.pdb
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP20\TP1\bin\Debug\TP1.exe.config
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP25\TP1\bin\Debug\TP1.exe.config
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP25\TP1\obj\x86\Debug\TP1.exe
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP25\TP1\obj\x86\Debug\TP1.pdb
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP25\TP1\obj\x86\Debug\TP1.Form1.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP25\TP1\obj\x86\Debug\TP1.PackageGroupes.FormGestionGroupes.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP25\TP1\obj\x86\Debug\TP1.PackageGroupes.FormGroupe.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP25\TP1\obj\x86\Debug\TP1.PackageGroupes.FormUpdateGroupe.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP25\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormGestionStagiaires.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP25\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormStagiaire.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP25\TP1\obj\x86\Debug\TP1.PackageStagiaires.FormUpdateStagiaire.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP25\TP1\obj\x86\Debug\TP1.Properties.Resources.resources
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP25\TP1\bin\Debug\TP1.exe
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP25\TP1\bin\Debug\TP1.pdb
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP25\TP1\obj\x86\Debug\TP1.csprojResolveAssemblyReference.cache
+C:\Users\compaq\Documents\Visual Studio 2010\Projects\TP25\TP1\obj\x86\Debug\TP1.csproj.GenerateResource.Cache

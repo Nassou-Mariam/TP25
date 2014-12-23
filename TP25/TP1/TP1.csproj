@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DEFBEF11-8399-4299-BDE7-BD673868C3F7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TP1</RootNamespace>
+    <AssemblyName>TP1</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Menu Application.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu Application.Designer.cs">
+      <DependentUpon>Menu Application.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PackageGroupes\FormGestionGroupes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PackageGroupes\FormGestionGroupes.Designer.cs">
+      <DependentUpon>FormGestionGroupes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PackageGroupes\FormGroupe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PackageGroupes\FormGroupe.Designer.cs">
+      <DependentUpon>FormGroupe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PackageGroupes\FormUpdateGroupe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PackageGroupes\FormUpdateGroupe.Designer.cs">
+      <DependentUpon>FormUpdateGroupe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PackageGroupes\GroupeRow.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PackageGroupes\GroupeRow.Designer.cs">
+      <DependentUpon>GroupeRow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PackageStagiaires\FormGestionStagiaires.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PackageStagiaires\FormGestionStagiaires.Designer.cs">
+      <DependentUpon>FormGestionStagiaires.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PackageStagiaires\FormStagiaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PackageStagiaires\FormStagiaire.Designer.cs">
+      <DependentUpon>FormStagiaire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PackageStagiaires\FormUpdateStagiaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PackageStagiaires\FormUpdateStagiaire.Designer.cs">
+      <DependentUpon>FormUpdateStagiaire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Menu Application.resx">
+      <DependentUpon>Menu Application.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PackageGroupes\FormGestionGroupes.resx">
+      <DependentUpon>FormGestionGroupes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PackageGroupes\FormGroupe.resx">
+      <DependentUpon>FormGroupe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PackageGroupes\FormUpdateGroupe.resx">
+      <DependentUpon>FormUpdateGroupe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PackageStagiaires\FormGestionStagiaires.resx">
+      <DependentUpon>FormGestionStagiaires.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PackageStagiaires\FormStagiaire.resx">
+      <DependentUpon>FormStagiaire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PackageStagiaires\FormUpdateStagiaire.resx">
+      <DependentUpon>FormUpdateStagiaire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\DataSources\TP1.DataSet1TableAdapters.GroupeTableAdapter.datasource" />
+    <None Include="Properties\DataSources\TP1.PackageStagiaires.Stagiaire.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
